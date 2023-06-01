@@ -4,7 +4,6 @@ redirect_from: '/partners/build-webhook/'
 ---
 
 {% include content/dev-center-note.md %}
-Test
 
 Subscription Webhooks allow Segment Partners to ingest Segment Event Data using a webhook. This guide explains how to set up your webhook with Segment.
 
